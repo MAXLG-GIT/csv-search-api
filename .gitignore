@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+mysql
+npm-root
+src/vendor
+src/storage
+src/.env
+src/node_modules
